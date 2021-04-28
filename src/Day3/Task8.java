@@ -14,6 +14,6 @@ public class Task8 {
         char fifthCharOfName = 's';
         char sixthCharOfName = 'h';
         int sumOfNameLatters = (int) firstCharOfName + (int) secondCharOfName + (int) thirdCharOfName + (int) forthCharOfName + (int) fifthCharOfName + (int) sixthCharOfName;
-        System.out.println(sumOfNameLatters);
+        System.out.println(sumOfNameLatters/6);
     }
 }
