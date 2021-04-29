@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 
 
-//Task 1
+//Task6 1
 public class Task1 {
     public static void main(String[] args) {
 
