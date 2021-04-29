@@ -13,7 +13,7 @@ public class Saturation {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input the Saturation");
         int saturation = scanner.nextInt();
-        if(saturation>98) {
+        if (saturation > 98) {
             System.out.println("You are Very Healthy");
         } else if (saturation > 70) {
             System.out.println("You Are Healthy");
